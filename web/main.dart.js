@@ -43979,7 +43979,7 @@ r=new A.yE(r,A.aj(r).i("yE<1>"))
 return A.AF(r.gfD(r).ij(0,new A.ado(b,s,a),t.tL).eh(0),B.ay,B.kz,B.b8)},
 $S:371}
 A.ado.prototype={
-$1(a){var s=null,r=J.d(a.a,0),q=this.a.b*0.25,p=q+32,o=this.c,n=t.Y,m=A.aF(o,!0,n).a.b,l=A.hi(32),k=A.aF(o,!0,n).a,j=r?"o":"x"
+$1(a){var s=null,r=J.d(a.a,0),q=this.a.b*0.25,p=q+32,o=this.c,n=t.Y,m=A.aF(o,!0,n).a.b,l=A.hi(32),k=A.aF(o,!0,n).a,j=r?"o":"close"
 return A.kx(s,A.e4(B.x,A.em("assets/images/"+j+".png",B.x,A.aF(o,!0,n).a.b.cx,B.dc,q,q),B.q,s,s,new A.cI(m.as,s,s,l,k.d.a,s,B.aw),s,p,s,B.IU,s,s,p),B.ae,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.adn(this.b,a),s,s,s,s,s,s)},
 $S:372}
 A.adn.prototype={
@@ -44065,7 +44065,7 @@ f=A.em("assets/images/o.png",B.x,g,g,g,g)
 j=e.c
 j.toString
 j=A.iP(f.c,j)
-f=A.em("assets/images/x.png",B.x,g,g,g,g)
+f=A.em("assets/images/close.png",B.x,g,g,g,g)
 i=e.c
 i.toString
 h=t.z
